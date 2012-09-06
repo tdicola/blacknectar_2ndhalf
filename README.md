@@ -1,5 +1,5 @@
-blacknectar_2ndhalf
-===================
+Black Nectar: Second Half
+=========================
 
 Game inspired by the song Black Nectar from the album We Are The Doorways by RJD2/Insane Warrior.
 
