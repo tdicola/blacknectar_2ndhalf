@@ -1,0 +1,17 @@
+C:\Users\Tony\Documents\Visual Studio 2010\Projects\BlackNectar2ndHalf\BlackNectar2ndHalf\Bin\Release\BlackNectar2ndHalf.dll
+C:\Users\Tony\Documents\Visual Studio 2010\Projects\BlackNectar2ndHalf\BlackNectar2ndHalf\Bin\Release\BlackNectar2ndHalf.pdb
+C:\Users\Tony\Documents\Visual Studio 2010\Projects\BlackNectar2ndHalf\BlackNectar2ndHalf\Bin\Release\AppManifest.xaml
+C:\Users\Tony\Documents\Visual Studio 2010\Projects\BlackNectar2ndHalf\BlackNectar2ndHalf\Bin\Release\BlackNectar2ndHalf.xap
+C:\Users\Tony\Documents\Visual Studio 2010\Projects\BlackNectar2ndHalf\BlackNectar2ndHalf\Bin\Release\BlackNectar2ndHalfTestPage.html
+C:\Users\Tony\Documents\Visual Studio 2010\Projects\BlackNectar2ndHalf\BlackNectar2ndHalf\Bin\Release\SilverArcade.SilverSprite.Core.dll
+C:\Users\Tony\Documents\Visual Studio 2010\Projects\BlackNectar2ndHalf\BlackNectar2ndHalf\Bin\Release\WriteableBitmapEx.dll
+C:\Users\Tony\Documents\Visual Studio 2010\Projects\BlackNectar2ndHalf\BlackNectar2ndHalf\Bin\Release\WriteableBitmapEx.pdb
+C:\Users\Tony\Documents\Visual Studio 2010\Projects\BlackNectar2ndHalf\BlackNectar2ndHalf\Bin\Release\WriteableBitmapEx.xml
+C:\Users\Tony\Documents\Visual Studio 2010\Projects\BlackNectar2ndHalf\BlackNectar2ndHalf\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Visual Studio 2010\Projects\BlackNectar2ndHalf\BlackNectar2ndHalf\obj\Release\XAML\App.g.cs
+C:\Users\Tony\Documents\Visual Studio 2010\Projects\BlackNectar2ndHalf\BlackNectar2ndHalf\obj\Release\XAML\GameControl.g.cs
+C:\Users\Tony\Documents\Visual Studio 2010\Projects\BlackNectar2ndHalf\BlackNectar2ndHalf\obj\Release\XAML\MainPage.g.cs
+C:\Users\Tony\Documents\Visual Studio 2010\Projects\BlackNectar2ndHalf\BlackNectar2ndHalf\obj\Release\BlackNectar2ndHalf.g.resources
+C:\Users\Tony\Documents\Visual Studio 2010\Projects\BlackNectar2ndHalf\BlackNectar2ndHalf\obj\Release\BlackNectar2ndHalf.dll
+C:\Users\Tony\Documents\Visual Studio 2010\Projects\BlackNectar2ndHalf\BlackNectar2ndHalf\obj\Release\BlackNectar2ndHalf.pdb
+C:\Users\Tony\Documents\Visual Studio 2010\Projects\BlackNectar2ndHalf\BlackNectar2ndHalf\obj\Release\XapCacheFile.xml

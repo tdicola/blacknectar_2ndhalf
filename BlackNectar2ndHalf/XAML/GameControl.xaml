@@ -1,0 +1,17 @@
+﻿<UserControl x:Class="BlackNectar2ndHalf.GameControl"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:silversprite="clr-namespace:SilverArcade.SilverSprite;assembly=SilverArcade.SilverSprite.Core"
+    Height="480" Width="640">
+    
+    <UserControl.Resources>
+        <silversprite:GameLoop x:Key="gameLoop" Update="GameLoop_Update" />
+    </UserControl.Resources>
+
+    <Grid x:Name="LayoutRoot">        
+        <Image x:Name="screen" VerticalAlignment="Top" HorizontalAlignment="Left" />
+    </Grid>
+    
+</UserControl>

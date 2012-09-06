@@ -1,0 +1,17 @@
+c:\users\tony\documents\visual studio 2010\Projects\BlackNectar2ndHalf\BlackNectar2ndHalf\Bin\Debug\BlackNectar2ndHalf.dll
+c:\users\tony\documents\visual studio 2010\Projects\BlackNectar2ndHalf\BlackNectar2ndHalf\Bin\Debug\BlackNectar2ndHalf.pdb
+c:\users\tony\documents\visual studio 2010\Projects\BlackNectar2ndHalf\BlackNectar2ndHalf\Bin\Debug\AppManifest.xaml
+c:\users\tony\documents\visual studio 2010\Projects\BlackNectar2ndHalf\BlackNectar2ndHalf\Bin\Debug\BlackNectar2ndHalf.xap
+c:\users\tony\documents\visual studio 2010\Projects\BlackNectar2ndHalf\BlackNectar2ndHalf\Bin\Debug\BlackNectar2ndHalfTestPage.html
+c:\users\tony\documents\visual studio 2010\Projects\BlackNectar2ndHalf\BlackNectar2ndHalf\obj\Debug\ResolveAssemblyReference.cache
+c:\users\tony\documents\visual studio 2010\Projects\BlackNectar2ndHalf\BlackNectar2ndHalf\obj\Debug\BlackNectar2ndHalf.g.resources
+c:\users\tony\documents\visual studio 2010\Projects\BlackNectar2ndHalf\BlackNectar2ndHalf\obj\Debug\BlackNectar2ndHalf.dll
+c:\users\tony\documents\visual studio 2010\Projects\BlackNectar2ndHalf\BlackNectar2ndHalf\obj\Debug\BlackNectar2ndHalf.pdb
+c:\users\tony\documents\visual studio 2010\Projects\BlackNectar2ndHalf\BlackNectar2ndHalf\obj\Debug\XapCacheFile.xml
+c:\users\tony\documents\visual studio 2010\Projects\BlackNectar2ndHalf\BlackNectar2ndHalf\Bin\Debug\SilverArcade.SilverSprite.Core.dll
+C:\Users\Tony\Documents\Visual Studio 2010\Projects\BlackNectar2ndHalf\BlackNectar2ndHalf\obj\Debug\XAML\App.g.cs
+C:\Users\Tony\Documents\Visual Studio 2010\Projects\BlackNectar2ndHalf\BlackNectar2ndHalf\obj\Debug\XAML\GameControl.g.cs
+C:\Users\Tony\Documents\Visual Studio 2010\Projects\BlackNectar2ndHalf\BlackNectar2ndHalf\obj\Debug\XAML\MainPage.g.cs
+C:\Users\Tony\Documents\Visual Studio 2010\Projects\BlackNectar2ndHalf\BlackNectar2ndHalf\Bin\Debug\WriteableBitmapEx.dll
+C:\Users\Tony\Documents\Visual Studio 2010\Projects\BlackNectar2ndHalf\BlackNectar2ndHalf\Bin\Debug\WriteableBitmapEx.pdb
+C:\Users\Tony\Documents\Visual Studio 2010\Projects\BlackNectar2ndHalf\BlackNectar2ndHalf\Bin\Debug\WriteableBitmapEx.xml

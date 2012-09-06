@@ -1,0 +1,119 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<!-- saved from url=(0014)about:internet -->
+<head>
+    <title>Black Nectar: Second Half</title>
+    <style type="text/css">
+    body {
+	    background-color: #000000;
+	    color: #32FF32;
+	    font-family: Arial, Helvetica, Sans-Serif;
+	    margin-bottom: 100px;
+    }
+    #silverlightControlHost 
+    {
+        text-align: center;
+        border: 2px solid #32FF32;
+    }
+    #content 
+    {
+        width: 680px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    #content h1, h2, h3, h4
+    {
+        text-align: center;
+    }
+    #content p
+    {
+        text-align: justify;
+    }
+    </style>
+    
+    <script type="text/javascript">
+        function onSilverlightError(sender, args) {
+            var appSource = "";
+            if (sender != null && sender != 0) {
+              appSource = sender.getHost().Source;
+            }
+            
+            var errorType = args.ErrorType;
+            var iErrorCode = args.ErrorCode;
+
+            if (errorType == "ImageError" || errorType == "MediaError") {
+              return;
+            }
+
+            var errMsg = "Unhandled Error in Silverlight Application " +  appSource + "\n" ;
+
+            errMsg += "Code: "+ iErrorCode + "    \n";
+            errMsg += "Category: " + errorType + "       \n";
+            errMsg += "Message: " + args.ErrorMessage + "     \n";
+
+            if (errorType == "ParserError") {
+                errMsg += "File: " + args.xamlFile + "     \n";
+                errMsg += "Line: " + args.lineNumber + "     \n";
+                errMsg += "Position: " + args.charPosition + "     \n";
+            }
+            else if (errorType == "RuntimeError") {           
+                if (args.lineNumber != 0) {
+                    errMsg += "Line: " + args.lineNumber + "     \n";
+                    errMsg += "Position: " +  args.charPosition + "     \n";
+                }
+                errMsg += "MethodName: " + args.methodName + "     \n";
+            }
+
+            throw new Error(errMsg);
+        }
+    </script>
+
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-6181345-2']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+
+</script>
+</head>
+<body>
+    <div id="content">
+        <h1>BLACK NECTAR: SECOND HALF</h1>
+        <h4>by <a href="mailto://tony@tonydicola.com/">Tony DiCola</a></h4>
+        <p>It wasn’t supposed to end this way.  You were the best and the brightest&mdash;top of your class in college, captain of the rugby team, the youngest ever admitted into the space program.  This was your first mission, your chance to make a small step in mankind’s conquest of the stars.</p>
+        <p>Then the accident happened.  In the blink of an eye you’re cast away from the ship forever.  The suit will pick up energy to prolong your trip, but you know there is no happy ending.  They will write about you as a hero, a necessary casualty in the race to the stars.</p>
+        <p>There is no sadness or regret now.  When your life functions cease your body will continue traveling forward.  In time you will become the farthest trace of mankind in the galaxy.  You will travel the vast expanses of space and return to the stars.</p>
+        <p><b>BLACK NECTAR: SECOND HALF</b></p>
+        <p>A sci-fi videogame in the style of home videogame consoles from 1976-1984.  Inspired by music from The Insane Warrior's album <a href="http://rjd2.bandcamp.com/album/we-are-the-doorways">We Are The Doorways</a>&mdash;itself inspired by horror and sci-fi film scores of 1976-1984.</p>
+        <div id="silverlightControlHost">
+            <object data="data:application/x-silverlight-2," type="application/x-silverlight-2" width="640px" height="480px">
+		      <param name="source" value="BlackNectar2ndHalf.xap"/>
+		      <param name="onError" value="onSilverlightError" />
+		      <param name="background" value="#000000" />
+		      <param name="minRuntimeVersion" value="3.0.40818.0" />
+		      <param name="autoUpgrade" value="true" />
+		      <a href="http://go.microsoft.com/fwlink/?LinkID=149156&v=3.0.40818.0" style="text-decoration:none">
+ 			      <img src="http://go.microsoft.com/fwlink/?LinkId=108181" alt="Get Microsoft Silverlight" style="border-style:none"/>
+		      </a>
+	        </object><iframe id="_sl_historyFrame" style="visibility:hidden;height:0px;width:0px;border:0px"></iframe>
+        </div>
+        <p><b>PROBLEMS?</b></p>
+        <p>Make sure you have the latest version of <a href="http://www.microsoft.com/getsilverlight/get-started/install/default.aspx">Microsoft Silverlight</a> installed.</p>
+        <p><b>SPECIAL THANKS TO:</b>
+        <ul>
+        <li><a href="http://rjd2.bandcamp.com/">The Insane Warrior / RJD2</a> for his excellent music and <a href="http://wearethedoorways.com/">We Are The Doorways remix contest</a>.</li>
+        <li>Bill Reiss for the <a href="http://silversprite.codeplex.com/">SilverSprite library</a> and <a href="http://blogs.silverarcade.com/">Silverlight game programming blog.</a></li>
+        <li>René Schule and other contributors to the <a href="http://writeablebitmapex.codeplex.com/">WriteableBitmapEx library</a>.</li>
+        <li>Vic Fieger for the font <a href="http://www.fontsquirrel.com/fonts/Heavy-Data">Heavy Data</a>.</li>
+        </ul>
+        </p>
+        <p><a rel="license" href="http://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a>.</p>
+    </div>
+</body>
+</html>

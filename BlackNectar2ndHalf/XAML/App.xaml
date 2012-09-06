@@ -1,0 +1,8 @@
+﻿<Application xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+             x:Class="BlackNectar2ndHalf.App"
+             >
+    <Application.Resources>
+        <FontFamily x:Key="HeavyData">../heavy_data.ttf#Heavy Data</FontFamily>
+    </Application.Resources>
+</Application>
